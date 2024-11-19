@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } else if (index === 2) {
             medal = '<span class="bronze">🥉</span>';
         } else {
-            medal = '<span class="bronze">🥉</span>';
+            medal = '<span class="bronze">🏅</span>';
         }
 
         // Calculate the time difference

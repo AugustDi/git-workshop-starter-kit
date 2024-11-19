@@ -16,9 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } else if (index === 2) {
             medal = '<span class="bronze">🥉</span>';
         } else {
-            listItem.style.paddingLeft = '34px';  // Horizontal padding
-            listItem.style.paddingTop = '8px';   // Vertical top padding
-            listItem.style.paddingBottom = '8px';// Vertical bottom padding
+            medal = '<span class="bronze">🥉</span>';
         }
 
         // Calculate the time difference

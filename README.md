@@ -70,7 +70,7 @@ git commit -m "Your commit message"
 
 ---
 
-## 6. Add Files and Make Commits
+## 6. Push to GitHub
 
 Push your committed changes to GitHub using:
 

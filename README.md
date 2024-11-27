@@ -33,7 +33,21 @@ Replace "Your Name" with your actual name and "your@email.com" with your email a
 
 ---
 
-## 4. Clone the Repository
+## 4. Start working with GIT
+
+create a folder on your computer, open it with VSCode, open a terminal, and enter the following command to start working with GIT:
+
+```bash
+git init
+```
+Add your repository by running a comand:
+
+```bash
+git remote add origin https://github.com/OWNER/REPOSITORY.git
+```
+---
+
+## 4. Alternative Way - Clone the Repository
 
 To work locally, clone the newly created repository to your computer using:
 

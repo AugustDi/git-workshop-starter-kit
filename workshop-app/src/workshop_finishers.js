@@ -24,5 +24,10 @@ const persons = [
 		"name": "Krot` Victor",
 		"time": "1:1:1"
 	},
+	{
+		"id" : 6,
+		"name": "Poshytniuk Dmytro",
+		"time": "10:58:15"
+	},
 
 ]

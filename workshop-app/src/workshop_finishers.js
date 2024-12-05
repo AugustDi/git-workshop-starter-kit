@@ -21,8 +21,12 @@ const persons = [
 	},
 	{
 		"id" : 5,
-		"name": "Oleksiy Kiyashko",
-		"time": "10:55:10"
+		"name": "Krot` Victor",
+		"time": "1:1:1"
 	},
-
+	{
+		"id" : 6,
+		"name": "Oleksiy Kiyashko",
+		"time": "10:59:11"
+	},
 ]

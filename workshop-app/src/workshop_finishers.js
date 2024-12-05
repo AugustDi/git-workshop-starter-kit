@@ -1,8 +1,8 @@
 const persons = [
     {
-        "id": 1,
-        "name": "Example Name",
-        "time": "2:45:00"
+        "id": -1,
+        "name": "Ruslan Vihlaev",
+        "time": "99:99:98"
     },
 
 ]

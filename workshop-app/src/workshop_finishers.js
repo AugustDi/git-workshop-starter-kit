@@ -34,5 +34,10 @@ const persons = [
 		"name": "Oleksiy Kiyashko",
 		"time": "11:00:14"
 	},
+    {
+		"id" : 8,
+		"name": "Ivashchenko Glib",
+		"time": "11:05:14"
+	},
 
 ]

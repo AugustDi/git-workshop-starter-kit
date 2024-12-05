@@ -9,5 +9,10 @@ const persons = [
 		"name": "Oleksandr Loktiev",
 		"time": "10:19:00"
 	},
+	{
+		"id" : 3,
+		"name": "Oleksandr Dobrelya",
+		"time": "10:46:12"
+	},
 
 ]
